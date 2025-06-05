@@ -1,0 +1,53 @@
+#allcounter {
+  position: absolute;
+  left: 400px;
+  top: 100px;
+  height: 500px;
+  width: 800px;
+  background-color: red;
+}
+#increasebutton {
+  font: bold;
+  font-family: "Times New Roman", Times, serif;
+  color: azure;
+  position: relative;
+  height: 50px;
+  width: 100px;
+  top: 350px;
+  left: 550px;
+  background-color: black;
+}
+#decreasebutton {
+  font: bold;
+  font-family: "Times New Roman", Times, serif;
+  color: azure;
+  position: relative;
+  height: 50px;
+  width: 100px;
+  top: 350px;
+  left: 40px;
+  background-color: black;
+}
+#resetbutton{
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  color: azure;
+  position: relative;
+  height: 50px;
+  width: 100px;
+  top: 380px;
+  left: 150px;
+  background-color: black;
+}
+#displayer{
+    position: relative;
+    width: 600px;
+    height: 200px;
+    background-color: rgb(59, 71, 67);
+    left: 100px;
+}
+#numberValue{
+    position: relative;
+    left: 400px;
+    bottom: 150px;
+}
